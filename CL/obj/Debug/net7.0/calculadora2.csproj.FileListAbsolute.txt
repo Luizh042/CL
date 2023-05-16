@@ -1,0 +1,10 @@
+C:\Users\Xtreme Gamer\projetos\CL2\calculadora2\obj\Debug\net7.0\calculadora2.csproj.AssemblyReference.cache
+C:\Users\Xtreme Gamer\projetos\CL2\calculadora2\obj\Debug\net7.0\calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xtreme Gamer\projetos\CL2\calculadora2\obj\Debug\net7.0\calculadora2.AssemblyInfoInputs.cache
+C:\Users\Xtreme Gamer\projetos\CL2\calculadora2\obj\Debug\net7.0\calculadora2.AssemblyInfo.cs
+C:\Users\Xtreme Gamer\projetos\CL2\calculadora2\obj\Debug\net7.0\calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\calculadora2.csproj.AssemblyReference.cache
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\calculadora2.AssemblyInfoInputs.cache
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\calculadora2.AssemblyInfo.cs
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\calculadora2.csproj.CoreCompileInputs.cache

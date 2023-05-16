@@ -1,0 +1,15 @@
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.csproj.AssemblyReference.cache
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.AssemblyInfoInputs.cache
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.AssemblyInfo.cs
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.csproj.CoreCompileInputs.cache
+C:\Users\Xtreme Gamer\projetos\CL2\CL\bin\Debug\net7.0\CL.exe
+C:\Users\Xtreme Gamer\projetos\CL2\CL\bin\Debug\net7.0\CL.deps.json
+C:\Users\Xtreme Gamer\projetos\CL2\CL\bin\Debug\net7.0\CL.runtimeconfig.json
+C:\Users\Xtreme Gamer\projetos\CL2\CL\bin\Debug\net7.0\CL.dll
+C:\Users\Xtreme Gamer\projetos\CL2\CL\bin\Debug\net7.0\CL.pdb
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.dll
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\refint\CL.dll
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.pdb
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\CL.genruntimeconfig.cache
+C:\Users\Xtreme Gamer\projetos\CL2\CL\obj\Debug\net7.0\ref\CL.dll
